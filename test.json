@@ -1,0 +1,84 @@
+{
+  "maindata": [
+    {
+      "name": "Kushang",
+      "amount": 1000,
+      "subdata": [
+        {
+          "heading":"Fuel",
+            "subamount": 500
+        },
+        {
+          "heading":"Others",
+          "subamount": 300
+        }
+
+      ]
+    },
+    {
+      "name": "Deepthi",
+      "amount": 800,
+      "subdata": [
+        {
+          "heading":"Fuel",
+          "subamount": 500
+        },
+        {
+          "heading":"Others",
+          "subamount": 300
+        }
+
+      ]
+    },
+    {
+      "name": "Ram",
+      "amount": 1200,
+      "subdata": [
+        {
+          "heading":"Fuel",
+          "subamount": 500
+        },
+        {
+          "heading":"Others",
+          "subamount": 700
+        }
+
+      ]
+    },
+    {
+      "name": "khalil",
+      "amount": 2000,
+      "subdata": [
+        {
+          "heading":"Fuel",
+          "subamount": 1000
+        },
+        {
+          "heading":"Others",
+          "subamount": 1000
+        }
+
+        ]},
+
+        {
+          "name": "mahesh",
+          "amount": 3000,
+          "subdata": [
+            {
+              "heading":"Fuel",
+              "subamount": 1000
+            },
+            {
+              "heading":"Others",
+              "subamount": 2000
+            }
+
+      ]
+    }
+  ]
+    }
+
+
+
+
+
